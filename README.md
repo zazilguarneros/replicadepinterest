@@ -13,6 +13,7 @@ Este proyecto es una copia de la interfaz de inicio de Pinterest, creado con el 
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
+![Demo](/images/vistaprevia.png)
 
 ### Contacto
 Zazil Guarneros: [Mi LinkedIn](https://www.linkedin.com/in/zazil-guarneros-pacheco-556739167/)
